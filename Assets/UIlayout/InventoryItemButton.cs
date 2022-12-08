@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Invintorybotton : MonoBehaviour
+public class InventoryItemButton : MonoBehaviour
 {
   private Text buttonText;
   private string[] itemTypes = {"Armor","Weapon","Spell"};
